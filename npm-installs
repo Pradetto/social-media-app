@@ -1,0 +1,2 @@
+npm install bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose express
+
